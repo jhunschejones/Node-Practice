@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.1.13",
     "newrelic": "^4.8.0",
     "restify": "^7.2.1"
   }
