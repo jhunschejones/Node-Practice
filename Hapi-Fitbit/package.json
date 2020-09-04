@@ -5,7 +5,7 @@
     "crypto": "^0.0.3",
     "fitbit-node": "^2.0",
     "hapi": "~11.0.0",
-    "mongodb": "~2.2.21",
+    "mongodb": "~3.1.13",
     "mongoose": "~4.7",
     "newrelic": "^4.8.0",
     "nodemon": "^1.17.2",
